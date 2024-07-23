@@ -9,9 +9,9 @@ The script assumes some game servers are on the computer. These can be swapped o
 * run 'node main.js'
 
 # Screenshots
-![](Images/HomeLab_2.png)
-![](Images/HomeLab_3.png)
-![](Images/HomeLab_4.png)
+![](Images/Homelab_2.png)
+![](Images/Homelab_3.png)
+![](Images/Homelab_4.png)
 
 # Built With
 * NodeJS
